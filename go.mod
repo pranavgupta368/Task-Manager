@@ -1,0 +1,3 @@
+module taskr
+
+go 1.27.1
